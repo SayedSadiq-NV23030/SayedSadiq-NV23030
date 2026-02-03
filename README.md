@@ -31,7 +31,6 @@
     fill="#ff0000"
     letter-spacing="2"
     mask="url(#typing-mask)">
-    FOLLOW DALEELK.BH ON INSTAGRAM
   </text>
 
   <!-- Cursor -->
