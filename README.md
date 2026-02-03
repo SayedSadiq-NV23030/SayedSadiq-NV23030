@@ -8,7 +8,16 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=1200&color=FF0000&center=true&vCenter=true&width=900&lines=Cloud+Computing+Enthusiast;AWS+Certified+Cloud+Practitioner;Web+Apps+%7C+PWAs+%7C+APIs;Building+Tech+with+Purpose;FOLLOW+DALEELK.BH+ON+INSTAGRAM" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=1200&color=0EF2EA&center=true&vCenter=true&width=900&lines=AWS+Certified+Cloud+Practitioner;Web+Apps+%7C+PWAs+%7C+APIs;Cloud+%2B+AI+Driven+Projects;Building+Tech+That+Actually+Matters" 
+  />
+</p>
+
+<!-- ===== DALEELK SPECIAL LINE ===== -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=🚨+FOLLOW+DALEELK.BH+ON+INSTAGRAM+🚨" 
+  />
 </p>
 
 <p align="center">
@@ -23,9 +32,9 @@
 <ul>
   <li>🎓 High school student majoring in <b>Cloud Computing</b></li>
   <li>☁️ <b>AWS Certified Cloud Practitioner</b></li>
-  <li>🚀 Passionate about <b>Cloud, Web Apps, PWAs, APIs & AI-powered tools</b></li>
-  <li>🧩 Love building real-world projects, startups & hackathon solutions</li>
-  <li>🌍 Based in <b>Bahrain</b>, building for the world</li>
+  <li>🚀 Focused on <b>Cloud, Web Apps, PWAs, APIs & AI-powered platforms</b></li>
+  <li>🧩 Builder mindset — hackathons, startups, and real-world systems</li>
+  <li>🌍 Based in <b>Bahrain</b>, building scalable tech for global impact</li>
 </ul>
 
 ---
@@ -80,38 +89,24 @@
   <tr>
     <th>Project</th>
     <th>Description</th>
-    <th>Tech</th>
-  </tr>
-  <tr>
-    <td><b>AlDana</b></td>
-    <td>Interactive tourism & gamification platform inspired by Bahrain pearls</td>
-    <td>React, PWA, AI, Cloud</td>
+    <th>Focus</th>
   </tr>
   <tr>
     <td><b>Daleelk</b></td>
-    <td>Smart Bahrain tourism assistant & chatbot</td>
-    <td>Web, AI, Cloud</td>
+    <td>Smart Bahrain tourism platform & AI-powered assistant</td>
+    <td>Web, Cloud, AI</td>
   </tr>
   <tr>
-    <td><b>ESP32 Weather Station</b></td>
-    <td>IoT-based real-time weather monitoring system</td>
-    <td>ESP32, IoT, Cloud</td>
+    <td><b>Rhea</b></td>
+    <td>Modern tech-focused system built for scalability and performance</td>
+    <td>Cloud, Web Architecture</td>
+  </tr>
+  <tr>
+    <td><b>Lunaris</b></td>
+    <td>NASA Space Apps project — interactive exploration & visualization concept</td>
+    <td>Data, Visualization, Web</td>
   </tr>
 </table>
-
----
-
-<!-- ===================== GITHUB STATS ===================== -->
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayedsadiq&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedsadiq&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sayedsadiq&theme=radical&hide_border=true" />
-</p>
 
 ---
 
@@ -130,5 +125,5 @@
 ---
 
 <h3 align="center">
-  🚀 “Building meaningful tech, one project at a time.”
+  🚀 “Engineering ideas into scalable reality.”
 </h3>
