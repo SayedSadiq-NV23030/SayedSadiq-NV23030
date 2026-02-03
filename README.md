@@ -2,8 +2,10 @@
 
 <p>A passionate Cloud Practitioner & Web Developer from Bahrain</p>
 
-<!-- Typing animation (GitHub-safe) -->
-<svg width="100%" height="80" viewBox="0 0 1000 80" xmlns="http://www.w3.org/2000/svg">
+<img
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=FOLLOW+DALEELK.BH+ON+INSTAGRAM"
+  alt="Typing animation" />
+
   <defs>
     <mask id="typing-mask">
       <rect x="0" y="0" width="0" height="100%" fill="white">
