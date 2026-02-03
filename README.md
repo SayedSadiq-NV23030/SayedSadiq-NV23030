@@ -5,52 +5,6 @@
 <img
   src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=FOLLOW+DALEELK.BH+ON+INSTAGRAM"
   alt="Typing animation" />
-
-  <defs>
-    <mask id="typing-mask">
-      <rect x="0" y="0" width="0" height="100%" fill="white">
-        <animate
-          attributeName="width"
-          values="0;720;720;0"
-          keyTimes="0;0.6;0.8;1"
-          dur="4s"
-          repeatCount="indefinite" />
-      </rect>
-    </mask>
-  </defs>
-
-  <!-- Text -->
-  <text
-    x="50%"
-    y="50%"
-    text-anchor="middle"
-    dominant-baseline="middle"
-    font-family="Inter, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif"
-    font-size="34"
-    font-weight="700"
-    fill="#ff0000"
-    letter-spacing="2"
-    mask="url(#typing-mask)">
-  </text>
-
-  <!-- Cursor -->
-  <text
-    x="86%"
-    y="50%"
-    dominant-baseline="middle"
-    font-family="Inter, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif"
-    font-size="34"
-    font-weight="700"
-    fill="#ff0000">
-    |
-    <animate
-      attributeName="opacity"
-      values="1;0;1"
-      dur="1s"
-      repeatCount="indefinite" />
-  </text>
-</svg>
-
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
