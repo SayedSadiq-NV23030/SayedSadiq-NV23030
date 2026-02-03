@@ -1,5 +1,35 @@
 <h1>Hi 👋, I'm 𝓢𝓪𝔂𝓮𝓭 𝓢𝓪𝓭𝓲𝓺</h1>
-<p>A passionate Cloud Practitioner & Web Developer from Bahrain (𝗙𝗼𝗹𝗹𝗼𝘄 𝗱𝗮𝗹𝗲𝗲𝗹𝗸.𝗯𝗵 𝗼𝗻 𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺!)</p>
+<p>A passionate Cloud Practitioner & Web Developer from Bahrain</p>
+<svg width="100%" height="80" viewBox="0 0 1000 80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .typing {
+      font-family: 'Segoe UI', 'Inter', 'Roboto', 'Arial', sans-serif;
+      font-size: 34px;
+      font-weight: 700;
+      fill: #ff0000;
+      letter-spacing: 2px;
+    }
+  </style>
+
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="typing">
+    FOLLOW DALEELK.BH ON INSTAGRAM
+    <animate attributeName="opacity"
+             values="1;1;1;0"
+             keyTimes="0;0.8;0.9;1"
+             dur="4s"
+             repeatCount="indefinite" />
+  </text>
+
+  <!-- Typing mask -->
+  <rect x="0" y="0" width="0" height="100%" fill="white">
+    <animate attributeName="width"
+             values="0;1000;1000;0"
+             keyTimes="0;0.6;0.8;1"
+             dur="4s"
+             repeatCount="indefinite" />
+  </rect>
+</svg>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
